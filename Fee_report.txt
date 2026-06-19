@@ -1,0 +1,5 @@
+Fee report of Student 
+S No    Semester      Fee Amount     Paid Amount    Remainning Amount      Refund Amount 
+1.      1st           241000.00      241000.00      0.00                   0.00
+2.      2nd           212000.00      212000.00      0.00                   0.00
+3.      3rd           169000.00      169000.00      0.00                   0.00 

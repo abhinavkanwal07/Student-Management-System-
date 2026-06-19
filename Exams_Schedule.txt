@@ -1,0 +1,6 @@
+Exams Date of Student 
+S NO       Course Code         Course Name         Date of Exam       Timing 
+1.         25BH091920          Data Structures     11/07/2026         09:30-11:30
+2.         25CI019208          Java                13/07/2026         12:00-2:00 
+3.         25CI012902          Python              16/07/2026         2:30-4:30 
+4.         25CI102909          Economics           19/07/2026         09:30-11:30 

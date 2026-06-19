@@ -1,0 +1,8 @@
+Subjects offered for student in semester 3rd 
+S No      Course code           Course Name              Alloted
+1.        25BH21038             Data Structures          Yes 
+2.        25BY02839             Aptitude                 Yes 
+3.        25CI90129             Java                     Yes 
+4.        25CU87182             Unix Programming         Yes 
+5.        25CI09124             Python                   Yes 
+6.        25CI02101             Economics                Yes 

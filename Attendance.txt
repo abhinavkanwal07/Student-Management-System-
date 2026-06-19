@@ -1,0 +1,6 @@
+Attendance Report of Student  
+S.NO      Cousrse code          Course Name         Attendance 
+1.         26BH11021            Physics-I           20% 
+2.         25BH11102            Mathematics-II      90%
+3.         26CI11082            Data Structures     85% 
+4.         26CB99102            Aptitude            54% 
