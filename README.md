@@ -3,7 +3,6 @@
 A Python-based Student Management System developed using Object-Oriented Programming concepts.
 
 ## Features
-- Add Student Records
 - View Student Details
 - Attendance Management
 - Fee Management
